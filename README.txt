@@ -19,7 +19,7 @@ Other functions were adapted or inspired by SEIZMO by Garrett Euler,
 and various scripts from Rob Porritt. 
 
 All scripts assume a "sac-like" object structure, and are based on the readsac() and 
-writesac() scripts, taken from Sandia Labs and with their own copywrite rules.
+writesac() scripts, taken from Sandia Labs and with their own copyright rules.
 
 I welcome any comments or bug reports, or tell me if I missed a proper citation! 
 I do not plan to further develop or generalize these, however, and generally 
